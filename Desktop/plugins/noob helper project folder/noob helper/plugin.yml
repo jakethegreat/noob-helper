@@ -1,9 +1,12 @@
 name: noob helper
-main: main.Main
-version: 1.1
+main: com.github.jakethegreat.noobhelper.Main
+version: 1.2
+authors: ["jakesan700"]
+description: helps beginners around
 commands:
    kamikaze:
-      description: This will blow you up
-      usage: /kamikaze [player]
-      permission: noobhelper.kamikaze
-      permission-message: You don't have permission.
+   killme:
+   heal:
+  
+  
+
